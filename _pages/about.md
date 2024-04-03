@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpeg
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p><i>The best of man is like water,</i></p>
-    <p><i>It benefits all</i></p>
+    <p><i>The best of man is like water;</i></p>
+    <p><i>it benefits all</i></p>
     <p><i>without seeking recognition.</i></p>
 
 news: false # includes a list of news items
