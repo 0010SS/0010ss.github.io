@@ -12,7 +12,6 @@ profile:
     <p><i>The best of man is like water,</i></p>
     <p><i>It benefits all,</i></p>
     <p><i>without seeking recognition.</i></p>
-    <p><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Laozi</i></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
