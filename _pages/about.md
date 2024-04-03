@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I might be a **GEEK** (<strike>Nerd</strike>). My drive for self-actualization compels me to use my strengths to assist everyone on the planet, with technology serving as an excellent tool to enhance productivity and simplify our lives—plus, isn't everything tech-related incredibly cool? 😎
+I might be a **GEEK** (<strike>Nerd</strike>). My drive for **self-actualization** compels me to use my strengths to assist everyone on the planet, with technology serving as an excellent tool to enhance productivity and simplify our lives—plus, isn't everything tech-related incredibly cool? 😎
 
 My research is centered on **Artificial Intelligence**, specifically **Natural Language Processing** and **Computer Vision/Graphics**, seeing how they've changed our society (and my love for computer science that began at age 8, aspiring to be one of those hackers in hoodies and masks typing away on a black terminal 💻). However, <u>I am keen and eager to explore any technological area that can make our world a better place, from biology to physics to computer science.</u>
 
