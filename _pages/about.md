@@ -5,7 +5,7 @@ permalink: /
 subtitle: Building Tech to help <b>Every Human Being</b>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpeg
   image_circular: True # crops the image to make it circular
   more_info: >
