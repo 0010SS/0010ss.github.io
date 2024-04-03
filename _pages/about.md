@@ -5,9 +5,9 @@ permalink: /
 subtitle: Building Tech to help <b>Every Human Being</b>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p><i>The best of man is like water,</i></p>
     <p><i>It favors all,</i></p>
