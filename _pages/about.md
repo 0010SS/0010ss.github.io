@@ -1,18 +1,18 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Building Tech to help <b>Every Human Being</b>.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpeg
   image_circular: True # crops the image to make it circular
   more_info: >
     <p><i>The best of man is like water,</i></p>
-    <p><i>It favors all,</i></p>
-    <p><i>but never contends to its own contribution.</i></p>
-    <p><i>                                  - Laozi</i></p>
+    <p><i>It benefits all,</i></p>
+    <p><i>without seeking recognition.</i></p>
+    <p><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Laozi</i></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
