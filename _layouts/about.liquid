@@ -2,15 +2,13 @@
 layout: default
 ---
 <div class="post">
-  <div class="container mb-3">
-    <div class="row align-items-start justify-content-start">
-      <div class="col text-end">
-        <h1 class="font-weight-bold fs-1 m-0">Zehao Wen</h1>
-      </div>
-      <div class="col text-end">
-        <p class="fs-3 m-0"><i>{{ page.subtitle }}</i></p>
-      </div>
-    </div>
+  <div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <h1 class="post-title" style="margin-right: auto;">
+        <span class="font-weight-bold text-center fs-1">Zehao <b>Wen</b></span>
+    </h1>
+    <p class="subtitle text-left fs-3" style="align-self: flex-start; margin: 0;">
+        <i>{{ page.subtitle }}</i>
+    </p>
   </div>
 
   <article>
