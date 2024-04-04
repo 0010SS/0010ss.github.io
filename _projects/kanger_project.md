@@ -22,7 +22,7 @@ Hence, I conducted numerous experiments with medical Q&A using ChatGPT (GPT-3.5-
         {% include figure.liquid loading="eager" path="assets/img/projects/chatgpt_hallucination.png" title="ChatGPT Hallucination" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/kanger_rag.png" title="KangEr with RAG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/kanger_prevew.png" title="KangEr with RAG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
