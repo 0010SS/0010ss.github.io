@@ -2,10 +2,10 @@
 layout: page
 title: KangEr (康尔)
 description: Accessible healthcare Q&A with LLMs
-img: assets/img/12.jpg
+img: assets/img/projects/kanger_preview.jpeg
 importance: 1
 category: Artificial Intelligence
-related_publications: true
+related_publications: false
 ---
 *You can access the web app at [kanger-ai.web.app](kanger-ai.web.app).*
 
