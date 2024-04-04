@@ -2,16 +2,15 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        <span class="font-weight-bold text-center fs-1">Zehao <b>Wen</b></span>
-      {% endif %}
-    </h1>
-    <p class="text-center fs-4"><i>{{ page.subtitle }}</i></p>
+  <header class="container">
+    <div class="row align-items-center justify-content-center">
+      <div class="col text-end">
+        <h1 class="font-weight-bold fs-1 m-0">Zehao <b>Wen</b></h1>
+      </div>
+      <div class="col text-start">
+        <p class="fs-3 m-0"><i>{{ page.subtitle }}</i></p>
+      </div>
+    </div>
   </header>
 
   <article>
