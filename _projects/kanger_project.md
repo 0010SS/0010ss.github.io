@@ -4,22 +4,16 @@ title: KangEr (康尔)
 description: Accessible healthcare Q&A with LLMs
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Artificial Intelligence
 related_publications: true
 ---
+Despite claims made by those AI pioneers, like Sam Altman, that AI can narrow wealth disparities by boosting the productivity of the underprivileged, it appears that these communities lack both awareness and access to AI technologies. This situation is **paradoxical**, as AI should ideally serve as a catalyst for inclusive societal and economic advancement, reminiscent of past industrial revolutions. Therefore, I decided to promote the accessibility of AIinto thoese underprivileged communities myself, and the Chinese rural village becomes a great starting point.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Due to my family origins, I've always been visiting different distant villages in China-some of them even take a 2 hours mountain ride to reach from the nearest city. Hence, due to geographical and economic reasons, these communities often lack access to healthcare and medical knowledge - only a few, i.e., one, rural doctors are in the village to provide basic healthcare services for the residents. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This realization comes to me at the time I was doing research on Large Language Models(LLMs)–why can't these text giants be used as doctors? The large training data (and with some healthcare domain-specific data) provides LLMs with sufficient knowledge to understand healthcare-related queries, and its natural language interface lowers the barrier of knowledge acquisition, making it easier for people with less education experience to understand than obscure textbooks or blogs. LLMs also provide a customized interaction where you can basically as
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Obviously, 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
