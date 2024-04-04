@@ -7,13 +7,31 @@ importance: 1
 category: Artificial Intelligence
 related_publications: true
 ---
+*You can access the web app at [kanger-ai.web.app](kanger-ai.web.app).*
+
 Despite claims made by those AI pioneers, like Sam Altman, that AI can narrow wealth disparities by boosting the productivity of the underprivileged, it appears that these communities lack both awareness and access to AI technologies. This situation is **paradoxical**, as AI should ideally serve as a catalyst for inclusive societal and economic advancement, reminiscent of past industrial revolutions. Therefore, I decided to promote the accessibility of AIinto thoese underprivileged communities myself, and the Chinese rural village becomes a great starting point.
 
 Due to my family origins, I've always been visiting different distant villages in China-some of them even take a 2 hours mountain ride to reach from the nearest city. Hence, due to geographical and economic reasons, these communities often lack access to healthcare and medical knowledge - only a few, i.e., one, rural doctors are in the village to provide basic healthcare services for the residents. 
 
-This realization comes to me at the time I was doing research on Large Language Models(LLMs)–why can't these text giants be used as doctors? The large training data (and with some healthcare domain-specific data) provides LLMs with sufficient knowledge to understand healthcare-related queries, and its natural language interface lowers the barrier of knowledge acquisition, making it easier for people with less education experience to understand than obscure textbooks or blogs. LLMs also provide a customized interaction where you can basically as
+This realization comes to me at the time I was doing research on Large Language Models(LLMs)–why can't these text giants be used as doctors? The large training data (and with some healthcare domain-specific data) provides LLMs with sufficient knowledge to understand healthcare-related queries, and its natural language interface lowers the barrier of knowledge acquisition, making it easier for people with less education experience to understand than obscure textbooks or blogs. LLMs also provide a customized interaction where you can ask any specific questions that you'd like
 
-Obviously, 
+Hence, I did tons of experiments with medical Q&A with ChatGPT (GPT-3.5-turbo) in Chinese, aiming to test the quality and authenticity of this LLM's output. However, the problem of hallucination does exist, as illustrated by the picture below:
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/kanger_hallucination.png" title="ChatGPT Hallucination" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/kanger_hallucination.png" title="ChatGPT Hallucination" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    When I queried GPT-3.5-turbo about the Reiter's syndrome in Chinese, it replies me with a completely wrong description. However, RAG solves this, as shown by the response of KangEr to the right.
+</div>
+
+This is unacceptable for a medical related application. Luckily, the concept of Retrieval-Augmented Generation (RAG) appears at the time, which solves the hallucination issue by prompting LLMs with the correct information searched from the internet, as evident by the graph above. Yet, GPT-3.5-turbo does not have this ability then.
+
+GPT-3.5-turbo also shows its deficiency in understanding and generating Chinese, yet I can't bear the cost of GPT-4 APIs, and therefore I switched on using the API provided by iFlyTek, a Chinese AI company, and crafted the app based on the API.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,17 +43,6 @@ Obviously,
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
