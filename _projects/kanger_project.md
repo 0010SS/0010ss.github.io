@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KangEr (康尔)
-description: Accessible healthcare Q&A with LLMs
+description: Accessible healthcare Q&A with Large Language Models.
 img: assets/img/projects/kanger_preview.jpeg
 importance: 1
 category: Artificial Intelligence
