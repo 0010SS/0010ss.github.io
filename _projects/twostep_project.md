@@ -2,8 +2,8 @@
 layout: page
 title: TwoStep
 description: Travel has never been easier.
-img: assets/img/projects/optiway_1.png
+img: assets/img/projects/twostep_preview.png
 importance: 1
-category: Personal Development
+category: Commercial Development
 related_publications: false
 ---
