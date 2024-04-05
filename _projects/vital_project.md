@@ -2,7 +2,7 @@
 layout: page
 title: Vital
 description: Democratizing healthcare with non-invasive disease prediction.
-img: assets/img/3.jpg
+img: assets/img/projects/vital_preview.png
 importance: 2
 category: Artificial Intelligence
 giscus_comments: false

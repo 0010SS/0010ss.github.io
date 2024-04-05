@@ -2,7 +2,7 @@
 layout: page
 title: Tarot Personality
 description: Using Tarot for MBTI-like personality analysis.
-img: assets/img/projects/tarot_demo_1.jpeg
+img: assets/img/projects/tarot_demo_1.png
 importance: 2
 category: Commercial Development
 related_publications: false
