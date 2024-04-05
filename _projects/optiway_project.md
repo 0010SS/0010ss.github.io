@@ -1,13 +1,13 @@
 ---
 layout: page
-title: KangEr (康尔)
-description: Accessible healthcare Q&A with Large Language Models.
+title: Optiway
+description: Finding the optimal route to your next class.
 img: assets/img/projects/optiway_1.png
 importance: 1
 category: Personal Development
 related_publications: false
 ---
-*The code is open-sourced at https://github.com/micfong-z/OptiWay.*
+*The code is open-sourced on [Github](https://github.com/micfong-z/OptiWay.)*
 
 ### Introduction
 
