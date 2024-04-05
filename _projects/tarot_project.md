@@ -3,8 +3,8 @@ layout: page
 title: Tarot Personality
 description: Using Tarot for MBTI-like personality analysis.
 img: assets/img/projects/tarot_demo_1.png
-importance: 2
-category: Commercial Development
+importance: 3
+category: Development
 related_publications: false
 ---
 *You can access the web app at [TarotPersonality](https://zehao.tech/TarotPersonality/).* The code is open-sourced on [Github](https://github.com/0010SS/TarotPersonality).

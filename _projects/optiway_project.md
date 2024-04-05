@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Optiway
+title: OptiWay
 description: Finding the optimal route to your next class.
 img: assets/img/projects/optiway_1.png
-importance: 1
-category: Personal Development
+importance: 2
+category: Development
 related_publications: false
 ---
 *The code is open-sourced on [Github](https://github.com/micfong-z/OptiWay.)*

@@ -5,7 +5,7 @@ permalink: /projects/
 description: The crystalization of my passion, mind, and life.
 nav: true
 nav_order: 3
-display_categories: [Artificial Intelligence, Commercial Development, Personal Development]
+display_categories: [Artificial Intelligence, Development]
 horizontal: false
 ---
 

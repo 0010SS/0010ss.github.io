@@ -4,6 +4,6 @@ title: TwoStep
 description: Travel has never been easier.
 img: assets/img/projects/twostep_preview.png
 importance: 1
-category: Commercial Development
+category: Development
 related_publications: false
 ---
