@@ -9,3 +9,4 @@ giscus_comments: false
 ---
 *You can access the English version of the web app at [vital-client.web.app](vital-client.web.app).* *The Chinese version can be found at [kanger-vital.web.app](vital-ai.web.app).*
 
+Indeed, as mentioned in 
