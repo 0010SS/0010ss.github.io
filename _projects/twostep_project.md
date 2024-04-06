@@ -72,7 +72,7 @@ The final features of the app are listed with the cool visuals below. **FlyMate 
 
 With a clear feature set, it was time to code. Though I was skilled in Python for AI and Blazor for web development, mobile app development was new to me. It was challenging, requiring me to learn mobile development step by step while advancing the prototype. Thankfully, my proficiency in using ChatGPT did save me a lot of time in development, and it even became my GF (stands for "GPT friend").
 
-{% include video.liquid loading="eager" path="assets/img/projects/twostep_3d.mp4" title="TwoStep 3D video" class="rounded z-depth-1" %}
+{% include video.liquid path="assets/img/projects/twostep_3d.mp4" height=0.75vh controls title="TwoStep 3D video"%}
 <div class="caption">
     A 3D demo of <b>TwoStep</b>.
 </div>
@@ -98,7 +98,7 @@ Again, this couldn't have been done without my teammate, who helped manage all t
 
 Our hard work did pay off: TwoStep generated $1130 in revenue at the end of the progam, capturing the attention of a panelist who offered mentorship post-pitch. My performance at LaunchX earned me the **Best Developer** and **Most Driven** awards among a cohort of 75, as endorsed by peers and faculty. 
 
-{% include video.liquid loading="eager" path="assets/img/projects/twostep_demo.mp4" title="TwoStep Demo" class="rounded z-depth-1" %}
+{% include video.liquid path="assets/img/projects/twostep_demo.mp4" height=0.75vh controls title="TwoStep Demo"%}
 <div class="caption">
     A walkthrough of <b>TwoStep</b>.
 </div>
