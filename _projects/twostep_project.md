@@ -95,10 +95,10 @@ Our hard work did pay off: TwoStep generated $1130 in revenue at the end of the 
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/projects/twostep_demo.mp4" height=30% width=30% controls=1 title="TwoStep Demo"%}
+        {% include video.liquid path="assets/img/projects/twostep_demo.mp4" height='30%' width='30%' controls=1 title="TwoStep Demo"%}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/projects/twostep_3d.mp4" height=30% width=30% controls=1 title="TwoStep 3D video"%}
+        {% include video.liquid path="assets/img/projects/twostep_3d.mp4" height='30%' width='30%' controls=1 title="TwoStep 3D video"%}
     </div>
 <div class="caption">
     A walkthrough of <b>TwoStep</b> and a 3D video of the app's features.
