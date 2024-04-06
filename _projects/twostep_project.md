@@ -72,11 +72,6 @@ The final features of the app are listed with the cool visuals below. **FlyMate 
 
 With a clear feature set, it was time to code. Though I was skilled in Python for AI and Blazor for web development, mobile app development was new to me. It was challenging, requiring me to learn mobile development step by step while advancing the prototype. Thankfully, my proficiency in using ChatGPT did save me a lot of time in development, and it even became my GF (stands for "GPT friend").
 
-{% include video.liquid path="assets/img/projects/twostep_3d.mp4" height=0.75vh autoplay=1 loop=1 title="TwoStep 3D video"%}
-<div class="caption">
-    A 3D demo of <b>TwoStep</b>.
-</div>
-
 The development journey was arduous, yet it honed my problem-solving skills and taught me to swiftly find solutions online. <u>I learned SwiftUI from scratch, implementing the ten core features in just two weeks.</u> I believed that even years later, I would still cherish this experience, where I had the chance to immerge myself whole-heartedly to the progamming world. I was with my computer, wearing my bucket hat all day along, coding at the hallway, the cafeteria, the classroom, everywhere. My teammates and I could be found at anytime at the study room after lunch or dinner; people even thought that we've "conquered" that room (shout out to my equally motivated teammates, we couldn't have crafted the app without the great team spirit and atmosphere that we had). *It was such a pleasure and probably a once-in-a-lifetime opportunity to do something that you love, without any distractions.*
 
 Again, this couldn't have been done without my teammate, who helped manage all the UX, marketing, branding and financials stuff so that I could focus solely on my code. It taught me the importance of teamwork in terms of a start up: everyone has their own expertise, and it is pivotal to trust each other and work together to achieve the common goal.
@@ -98,9 +93,15 @@ Again, this couldn't have been done without my teammate, who helped manage all t
 
 Our hard work did pay off: TwoStep generated $1130 in revenue at the end of the progam, capturing the attention of a panelist who offered mentorship post-pitch. My performance at LaunchX earned me the **Best Developer** and **Most Driven** awards among a cohort of 75, as endorsed by peers and faculty. 
 
-{% include video.liquid path="assets/img/projects/twostep_demo.mp4" height=0.75vh autoplay=1 loop=1 title="TwoStep Demo"%}
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include video.liquid path="assets/img/projects/twostep_demo.mp4" height=30% width=30% controls=1 title="TwoStep Demo"%}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include video.liquid path="assets/img/projects/twostep_3d.mp4" height=30% width=30% controls=1 title="TwoStep 3D video"%}
+    </div>
 <div class="caption">
-    A walkthrough of <b>TwoStep</b>.
+    A walkthrough of <b>TwoStep</b> and a 3D video of the app's features.
 </div>
 
 When I uploaded the final prototype to GitHub, my emotions were mixed. Reviewing the **8,000** lines of code I crafted over two weeks, I didn’t feel the expected relief of completing a major project. Instead, a **growing sense of confidence** emerged. Reflecting on the LaunchX experience, it was a journey of self-affirmation. Physically, I proved to myself that I could survive and thrive alone in a foreign country for a month, working tirelessly regardless of time. Mentally, I demonstrated my ability to learn quickly and achieve my goals, crafting a fully functional app with impressive features in just two weeks. It reinforced that the **only limits are those we impose on ourselves.**
