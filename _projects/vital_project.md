@@ -22,14 +22,14 @@ Hence, I crafted the Vital app out of scratch, which aims to democratize healthc
         {% include figure.liquid loading="eager" path="assets/img/projects/vital_demo_1.png" title="Vital Recording Interface" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/vital_demo_2.png" title="Vital Disease Page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/vital_demo_2.png" title="Vital Disease Screen" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/vital_demo_3.png" title="Vital Risk Page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A glimpse into Vital's web app, showcasing its recording interface, health score page, and risk assessment page. The recording interface guides the user to correct position the head. The health score page displays the user's corresponding health score at each category, while the risk assessment page provides a detailed breakdown of the user's disease risks.
+    A glimpse into Vital's web app, showcasing its recording interface, health score screen, and risk assessment page. The recording interface guides the user to correct position the head. The health score screen displays the user's corresponding health score at each category, while the risk assessment page provides a detailed breakdown of the user's disease risks.
 </div>
 
 At first, Vital employs a **facial recognition** model to align the user's position accurately in front of the webcam. This step is crucial to ensure the user's head is stable and correctly oriented, preventing any inaccuracies in data capture that could affect the final disease prediction. 
