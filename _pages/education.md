@@ -33,7 +33,8 @@ My academic journey reached a milestone when I received the **Top in China** awa
             </div>
             {% assign counter = counter | plus: 1 %}
             {% if counter == 3 %}
-                </div><div class="row">
+                </div>
+                <div class="row mt-5">
             {% endif %}
         {% endfor %}
     </div>
