@@ -67,7 +67,7 @@ layout: default
         <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Selected Projects</a>
       </h2>
       <div class="row">
-        {% for project in site.data.projects %}
+        {% for project in site.data.selected_projects %}
           <div class="col-sm-3">
             <a href="{{ project.url | relative_url }}">
               <div class="card hoverable">
