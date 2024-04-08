@@ -2,14 +2,17 @@
   url: /projects/kanger_project/
   image: assets/img/projects/kanger_preview.jpeg
   description: Accessible healthcare Q&A with Large Language Models.
+
 - name: Vital
   url: /projects/vital_project/
   image: assets/img/projects/vital_preview.png
   description: Democratized, non-invasive disease predictions.
+
 - name: TwoStep
   url: /projects/twostep_project/
   image: assets/img/projects/twostep_1.jpg
   description: An all-in-one travel companion.
+  
 - name: AnyHome
   url: /projects/anyhome_project/
   image: assets/img/publication_preview/publication_anyhome.jpg

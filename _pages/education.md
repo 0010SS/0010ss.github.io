@@ -18,14 +18,13 @@ My academic journey reached a milestone when I received the **Top in China** awa
 You may click the name to download.
 
 <div class="row">
-    {% for note in site.data.selected_projects %}
-        <div class="col-sm-3">
+    {% for note in site.data.selected_notes %}
+        <div class="col-sm-4">
             <a href="{{ note.url | relative_url }}" download>
                 <div class="card hoverable">
-                    <img src="{{ project.image | relative_url }}" loading="eager" sizes="200px" alt="project thumbnail">
                     <div class="card-body">
-                        <h3 class="card-title">{{ project.name }}</h3>
-                        <p class="card-text">{{ project.description }}</p>
+                        <h3 class="card-title">{{ note.name }}</h3>
+                        <p class="card-text">{{ note.description }}</p>
                     </div>
                 </div>
             </a>

@@ -1,0 +1,43 @@
+- name: 0478 Chapter Notes
+  url: assets/zip/ig_cs_pdfs.zip
+  description: >
+    Notes by chapter for CAIE IGCSE Computer Science (0478). 
+    Detailed descriptions and visuals are included for each knowledge point.
+    It is recommended to use these notes to learn about the topics and then practice with past papers.
+
+- name: 0478 Syllabus Overview
+  url: assets/zip/ig_cs_finals.zip
+  description: >
+    A detailed overview of the CAIE IGCSE Computer Science (0478) syllabus, including both Paper 1 and Paper 2.
+    I've gone through each syllabus point and provided a brief sample answer for each. There are also some tips and tricks for the exam.
+    It is recommended to use this as a final revision tool before the exam.
+
+- name: 0455 Chapter Notes
+  url: assets/zip/ig_econ_pdfs.zip
+  description: >
+    The notes for CAIE IG Economics (0455), divided into Macro and Micro. 
+    I've included detailed explanations and analysis for each knowledge point.
+    There is also a file for all the definitions that've appeared in past papers, which you should definitely memorize.
+    It is recommended to use these notes to learn about the topics and then practice with past papers.
+
+- name: 0470 Russia Notes
+  url: assets/zip/ig_russia_pdfs.zip
+  description: >
+    Notes for the CAIE IGCSE History (0470) Depth Study on Russia.
+    The files are divided by the timeline, recording from the time before the 1905 Revolution to the end of the USSR.
+    The notes are organized by key questions of each topic, as what is done in the syllbuas. I've covered every historical point surrounding the question with the answer paragraphs, and therefore you can respond to every question in the exam no matter which side it is from.
+    It is recommended to learn about different event's facts and analysis as well as the response tricks using the notes.
+
+- name: 9618 Chapter Notes
+  url: assets/zip/as_cs_pdfs.zip
+  description: >
+    Notes by chapter for CAIE AS-Level Computer Science (9618).
+    I've created the notes based on each syllabus point and its related past-paper mark scheme answers to ensure that you get the maximum marks in the exam.
+    It is recommended to remember the points mentioned in the notes so that your answer sticks to Cambridge's marking scheme.
+
+- name: 9708 Chapter Notes
+  url: assets/zip/as_econ_pdfs.zip
+  description: >
+    Notes by chapter for CAIE AS-Level Economics (9708).
+    The notes are divided by each syllabus section, and I've included detailed explanations and analysis for each knowledge point.
+    It is recommended to use these notes to learn about the topics and then practice with past papers.
