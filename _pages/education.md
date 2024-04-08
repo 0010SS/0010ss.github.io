@@ -32,9 +32,8 @@ My academic journey reached a milestone when I received the **Top in China** awa
                 </a>
             </div>
             {% assign counter = counter | plus: 1 %}
-            {% if counter modulo 3 == 0 %}
-                </div>
-                <div class="row">
+            {% if counter | modulo: 3 == 0 %}
+                </div><div class="row">
             {% endif %}
         {% endfor %}
     </div>
