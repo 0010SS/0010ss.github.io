@@ -30,9 +30,8 @@ You may click each card below to
                     </div>
                 </a>
             </div>
-            {% if forloop.index0|divisibleby:3 and not forloop.last %}
-                </div>
-                <div class="row">
+            {% if forloop.index0 != 0 and forloop.index0 % 3 == 2 and not forloop.last %}
+                </div><div class="row">
             {% endif %}
         {% endfor %}
     </div>
