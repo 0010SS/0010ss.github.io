@@ -11,7 +11,7 @@ giscus_comments: false
 
 My experiences in exploring several rural Chinese villages highlighted the lack of professional medical knowledge and healthcare services in these areas. While the [KangEr Project](https://zehao.tech/projects/kanger_project/) seeks to bring medical knowledge in the palm of the villager's hand through an accessible LLM chatbot web application, it doesn't actively alert the onset of diseases, but requires the user to phrase their query to the AI doctor.
 
-However, diseases like cardiovascular diseases and diabetes are often asymptomatic in the early stages, and the lack of professional medical resources in rural areas makes it difficult to detect these diseases in time. Indeed, in rural China, cardio diseases accounted for nearly **half** of all deaths, and an **eighty percent** prevalence rate of chronic diseases existed. Yet, preventions like basic medications could have averted the heart attack with early detection. 
+However, diseases like cardio ones and diabetes are often asymptomatic in the early stages, and the lack of professional medical resources in rural areas makes it difficult to detect these diseases in time. Indeed, in rural China, cardio diseases accounted for nearly **half** of all deaths, and an **eighty percent** prevalence rate of chronic diseases existed. Yet, preventions like basic medications could have averted the heart attack with early detection. 
 
 ***Can we make disease predictions more accessible?*** This is the question that Vital seeks to answer.
 

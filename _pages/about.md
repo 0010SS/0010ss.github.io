@@ -16,6 +16,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+selected_projects: true
 ---
 
 I might be a **GEEK** (<strike>Nerd</strike>). My drive for **self-actualization** compels me to use my strengths to assist everyone on the planet, with technology serving as an excellent tool to enhance productivity and simplify our lives—plus, isn't everything tech-related incredibly cool? 😎

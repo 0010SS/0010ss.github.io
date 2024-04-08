@@ -61,6 +61,32 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Selected projects -->
+    {% if page.selected_projects %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
+      </h2>
+      <div class="row">
+        <div class="col-sm-3">
+          <a href="{{ '/projects/kanger_project/' | relative_url }}">
+            <div class="card hoverable">
+              {%
+                include figure.liquid
+                loading="eager"
+                path="assets/img/projects/kanger_preview.jpeg"
+                sizes = "200px"
+                alt="project thumbnail"
+              %}
+              <div class="card-body">
+                <h2 class="card-title">KangEr (康尔)</h2>
+                <p class="card-text">{{ Accessible healthcare Q&A with Large Language Models. }}</p>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
