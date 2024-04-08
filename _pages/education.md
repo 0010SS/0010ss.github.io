@@ -15,9 +15,10 @@ My academic journey reached a milestone when I received the **Top in China** awa
 
 ### Resources
 
-You may click each card below to 
+[You may click the card below to download the `zip` file for each note.]()
 
-<div class="container">
+<div class="note-section">
+    {% assign counter = 0 %}
     <div class="row">
         {% for note in site.data.selected_notes %}
             <div class="col-sm-4">
@@ -30,8 +31,10 @@ You may click each card below to
                     </div>
                 </a>
             </div>
-            {% if forloop.index0 != 0 and forloop.index0 % 3 == 2 and not forloop.last %}
-                </div><div class="row">
+            {% assign counter = counter | plus: 1 %}
+            {% if counter modulo 3 == 0 %}
+                </div>
+                <div class="row">
             {% endif %}
         {% endfor %}
     </div>
