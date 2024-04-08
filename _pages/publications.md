@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: My research is never ending. Here are some of my publications.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
