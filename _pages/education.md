@@ -15,7 +15,7 @@ My academic journey reached a milestone when I received the **Top in China** awa
 
 ### Resources
 
-[You may click the card below to download the `zip` file for each note.]()
+[You may click the card below to download the `zip` file for each note collection.]()
 
 <div class="note-section">
     {% assign counter = 0 %}
