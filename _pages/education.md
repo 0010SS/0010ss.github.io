@@ -15,19 +15,25 @@ My academic journey reached a milestone when I received the **Top in China** awa
 
 ### Resources
 
-You may click the name to download.
+You may click each card below to 
 
-<div class="row">
-    {% for note in site.data.selected_notes %}
-        <div class="col-sm-4">
-            <a href="{{ note.url | relative_url }}" download>
-                <div class="card hoverable">
-                    <div class="card-body">
-                        <h3 class="card-title">{{ note.name }}</h3>
-                        <p class="card-text">{{ note.description }}</p>
+<div class="container">
+    <div class="row">
+        {% for note in site.data.selected_notes %}
+            <div class="col-sm-4">
+                <a href="{{ note.url | relative_url }}" download>
+                    <div class="card hoverable">
+                        <div class="card-body">
+                            <h3 class="card-title">{{ note.name }}</h3>
+                            <p class="card-text">{{ note.description }}</p>
+                        </div>
                     </div>
+                </a>
+            </div>
+            {% if forloop.index0|divisibleby:3 and not forloop.last %}
                 </div>
-            </a>
-        </div>
-    {% endfor %}
+                <div class="row">
+            {% endif %}
+        {% endfor %}
+    </div>
 </div>
