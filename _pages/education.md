@@ -11,7 +11,7 @@ I am currently a junior at [Shenzhen College of International Education](scie.co
 
 Beyond academics, I co-founded the **SCIE Tai-Chi Club** to introduce the ancient practice of Tai Chi, which has significantly benefited my physical and mental well-being in the past 4 years, to our international school community. My commitment to school life extends to my upcoming role on the **Student Executive Leadership Team**, where I will collaborate with the school's management to enhance the campus environment and student life, overseeing the **Student Leadership Body** of more than 100 vibrant student leaders.
 
-My academic journey reached a milestone when I received the **Top in China** award for IGCSE Computer Science, an achievement made possible through years of sharing my study resources with classmates. Below are the notes and resources I've created that encompass several IG and AS subjects. Hope you find them helpful!
+My academic journey reached a milestone when I received the **Top in China** award for IGCSE Computer Science, an achievement made possible through years of sharing my study resources with classmates. Below are the notes and resources I've created that cover several IG and AS subjects. Hope you find them helpful!
 
 ### Resources
 
