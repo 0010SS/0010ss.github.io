@@ -7,7 +7,7 @@ importance: 2
 category: Development
 related_publications: false
 ---
-*The code is open-sourced on [Github](https://github.com/micfong-z/OptiWay.)*
+*The code is open-sourced on [Github](https://github.com/micfong-z/OptiWay)*
 
 ### Introduction
 
@@ -81,3 +81,5 @@ For future research directions related to the project’s domain, we can explore
 ### Conclusion
 
 In conclusion, the project is well-developed and user-friendly. By testing in real scenes, we find it highly useful and significantly reduce the time we need to reach our next class, although the timetables are simulated ones. In future we hope we can cooperate with the school to utilize the program.
+
+A huge thank to my teammates **Michael Zhang**, **David Liu** and **Beeno Huang** for completing this awesome project with me.
