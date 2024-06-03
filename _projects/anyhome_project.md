@@ -73,3 +73,5 @@ Failure is the start of success. We are reflecting on the feedback from the revi
 ### Sweet Notes
 
 Really happy that we've got the 2nd citation in the paper today. It's a great honor to be recognized by the community. **(April 6, 2024)**
+
+Fourth Google Scholar citation! **(June 3, 2024)**
