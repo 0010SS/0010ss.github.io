@@ -53,7 +53,7 @@ This app allows users to **voice their questions and receive spoken answers**, o
 I'm currently collaborating with rural health organizations to promote KangEr and plan to visit various villages to gather user feedback. This iterative process will tailor the app to real-life situations faced in rural areas. I believe KangEr has the potential to enhance both healthcare and AI accessibility in the often-overlooked parts of China's vast landscape, spanning 3,705,000 mi².
 
 ---
-### Technical Updates (2023-06-03)
+### Technical Updates (2024-06-03)
 I am dedicated to continuously perfect the app so that it can reach a larger audience and realistically help people in the underpriviledged areas. Four core features of KangEr have been updated to enhance accuracy and accessiblity.
 
 #### 1. More powerful LLM Backbone
