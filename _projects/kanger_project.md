@@ -53,6 +53,100 @@ This app allows users to **voice their questions and receive spoken answers**, o
 I'm currently collaborating with rural health organizations to promote KangEr and plan to visit various villages to gather user feedback. This iterative process will tailor the app to real-life situations faced in rural areas. I believe KangEr has the potential to enhance both healthcare and AI accessibility in the often-overlooked parts of China's vast landscape, spanning 3,705,000 mi².
 
 ---
+### Field Trip to Rural Areas, Memoir
+In cooperation with the Chinese Center for Disease Control and Prevention, I visited over 20 rural villages across two provinces (Fujian and Henan) to promote the KangEr app in person to the rural doctors. I am proud to announce that the app is now actively used by 75 rural health workers in their daily practice. 
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/kanger_rural_1.jpg" title="KangEr Field Trip" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/kanger_rural_3.jpg" title="KangEr Field Trip" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Photos that have been taken during the field trip to rural areas.
+</div>
+
+In addition, I also hosted two workshops in the local commune in Jiangjunshan community, Fujian Province. The workshops aim to make the knowledge of AI accessible to these residents between the hills, and introduce the KangEr app to help with their daily healthcare needs. Beside professional health workers, the app is now used by hundreds of non-professional residents in their daily life.
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/kanger_rural_2.jpg" title="KangEr Field Trip" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/kanger_rural_4.jpg" title="KangEr Field Trip" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Photos of me hosting workshops in the local commune in Jiangjunshan community, Fujian Province.
+</div>
+
+I've also written a memoir to record my experiences during the field trip. Besides, it also includes my reflections thereafter: the lessons I learned, the situations facing China's rural healthcare, and the status of technology accessibility in underpriveleged areas. The memoir is written in Chinese, and it is provided below.
+
+夏日早晨七点。
+
+黑色的红旗牌轿车穿过大路。双向十车道的大路上空空荡荡，平原县城的宽敞在南方甚是少见。
+
+干燥的气候也是如此。头顶高照的太阳并没有带来酷暑，也没有沿海城市特有高湿度环境下与阳光不匹配的体感温度，和似有似无的汗感。我默默套上了夹克。
+
+“风正使天气变得凉爽。”天气软件提示道，“体感温度28摄氏度。”
+
+手上一包十片的旺仔牛奶糖是我的早餐，大红的包装略微提神。起床气正将头发吹得好似雀巢，刘海之下是两个黑圈包裹着的一双眼睛，些许血丝点缀让它们看上去不那么像熊猫。一阵干涩袭来，我快速地眨了两下眼。
+
+迎接者是中牟当地疾控中心站长，他和妻子带着刚上小学的女儿。孩子身着新中式连衣裙，嚷嚷着要和妈妈一起坐。温馨的场景舒缓了进村前的紧张感 — 这是一直生活在深圳社交圈的我第一次与素不相识的人们来到未知的乡村。
+
+“有些村医的诊所外边儿还晒着菜，里面都是破木头，”车上初次谋面的北京同行说道，“咱们走一步看一步吧，不知道他们的接受程度如何。”我不禁关上了蓝色夹克的拉链。
+
+半小时的路程将我们从县城带入了狼城岗镇。“这儿一共有四万来号人，算是附近经济水平中等的镇了，”站长普及道。说罢，一个转弯将车子带入了片光秃秃的水泥地。浅灰之上搭建着白砖垒成的单层平房，掠过珠链便能直入其中。一位身着蓝色条纹保罗衫的男人正坐在电脑前，手边是一沓处方笺，第一页有着少许草体字符。
+
+些许茫然，这是我初次进入中原地区。沿海省份乡村都少有访问的我对中原的基建、风土更是一无所知。进村之前，我甚至担心当地的网络信号是否足以打开我的软件。事实证明，这有些杞人忧天了 — 村里都有堪比深圳的连接速度。这也是我初次和乡村卫生人员交流，对他们的文化背景、实际工作更是一张白纸。
+
+正当我犹豫如何开口时，站长的妻子闯了进来，大声做着介绍：”这俩北京人大附中来的学生来做社会实践，全国第一的高中啊。他们过来采访调研一下乡村的医疗现状，对这方面感兴趣。“显然，她和站长对我们此行的目的知之甚少，连我的身份都未有耳闻。正是在误打误撞中我们进入了陌生的乡村腹地。
+
+热情的笑容在保罗衫男人的国字脸庞绽开，方方正正、刻板印象中中原人的长相让这笑容变得尤为和蔼。我和北京同行迎着笑容开始了软件介绍。
+
+“咱们儿这次过来是做了个医疗相关的软件，想和您推荐使用一下。也征求下您用完后宝贵的反馈，这样咱好提升。”我笑着说道，他热情的态度打消了我对未知的犹豫，“您用浏览器打开下这个网址？”我在备忘录打下了“kangerai.site”，放大了屏幕显示，之后转过手机给他看。
+
+“K—A—N......”他一个个字符地念着，熟练地用两手粗壮的大拇指敲打着九宫格键盘。
+
+我在一旁介绍道：”咱这是个医疗问答软件，它可以回答任意医疗健康方面的问题，像”连花清瘟怎么服用“这样。它回答的消息一定是准确的，因为它会先在网络上搜索一遍真的资料，再总结用咱平常说话的语言和您说。“
+
+”您也可以给它描述患者的症状，它会告诉您病人可能得的病都有哪些。“真正来自人大附中的同行补充道，”不过只能作为一个辅助，最终把关的还得是您。“
+
+”是的，您可以把它当作一个医疗辅助专家，还可以接着用自然语言追问它，像这样。“我接过话茬，演示给村医看，“不过最终还是要您来做决定。”
+
+他始终浅浅露出几颗牙齿，嘴角微扬，边点头边看着我们的示范。手上也没闲着，在软件的对话框里输入起了问题。这个问题竟然是与中药相关的，十分令人惊讶。
+
+更令我诧异的是他对软件的娴熟。我对村医的印象还停留在“赤脚大夫”这个在八十年代就消亡的概念中，这似乎是现代社会人们对他们认为不专业、不在大医院坐诊的卫生工作者的统称 — 后来，甚至在我向高文化人群（如中学老师）询问乡镇里”村医“的情况及分布时，他们都混淆地称呼村医们为“这些赤脚医生都是五六十岁的老人家”。这称谓或多或少带有歧视性，好似村医是一些文化水平低下、只用偏方的”野郎中“。我也深受这种思维惯性的毒害，认为村医们（所谓“赤脚大夫”们）对电子产品或许十分生疏，甚至完全不会使用。这种“数码歧视”来源于大城市的沾沾自得，总觉得自己在技术发展上高人一等，却忘却了乡镇脱贫复兴带来的新农村建设、和互联网的魅力。
+
+我更愧疚的是对于“赤脚大夫”专业性的轻视。诚然，文革时期真正“赤脚大夫”是接受少许医疗教育的农民。他们的主要职能是负责基础疾病防治（如注射疫苗）、接生、处理基础急诊、并将重病患者转诊至上级医院这类初级任务。同时，他们也负责少许政治宣传 — 赤脚大夫们本身就是“群众运动”的表现。殊不知，”赤脚大夫“也是他们所在时代的英雄。惩创于已然，不如防患于未然。赤脚大夫们主动背着行囊前往村民家里问诊或进行公共卫生宣传、疾病预防。七十年代末到八十年代初，农村合作医疗的覆盖率达到90%以上，全国期望寿命提高至67.9岁（*中国卫生政策研究，2009*）。赤脚大夫是文革前后公共卫生的守护者。
+
+然而，半农民半大夫、半政治宣传半医学专家的观念在这白瓦包裹、白光亮堂的诊室里显得尤为突兀。“乡村医生”并不是“赤脚大夫”。早在1985年全国卫生厅局长会议中，“赤脚大夫”被分流成达到医士水平的“乡村医生”和未达标的“卫生员”，这个称呼也就此成为历史。在2013年颁布的《全国乡村医生教育规划（2011 - 2020年）》中，卫计委要求在十年内乡村医师需具有中职（中专）以上学历，并需要执业（助理）医师资格证（*卫生软科学，2023*）。学历及专业要求使村医往往是村民中文化水平较高的人群，他们的角色也从“半桶水”的农民村医变成了专业的医师。未来前对于他们作为“低文化农村人”的滤镜在此刻支离破碎，瓣瓣镜片反射出了一个先入为主的我。没有调查，没有发言权。
+
+我甩了甩脑袋，将思绪从年代的回忆中抛离出来。保罗衫村医的接受程度唤醒了我开发“康尔”的初衷 — 普及人工智能。“康尔”不止是医疗助手，更是普及人工智能等前沿科技的载体。近期（2022年后）互联网对于人工智能的讨论如火如荼，各大科技巨头也在快马加鞭地研发出最新的人工智能模型，并宣称这项技术可以提高弱势群体的生产力，从而降低贫富差距并带动经济发展。不幸的是，弱势群体或许根本没有机会去了解人工智能，何谈使用这项技术。然而，我个人终极奋斗的目标之一是“技术平权”，因为我坚信人人都有平等使用技术的权利，而技术（尤其是人工智能）也只有在普及到万千群众时才能发挥其最大价值，帮助每个人都“变懒”，提高他们的生产力，就此宏观地带动社会进步乃至于变革。“康尔”便是借助医疗普及为媒介，让居住在经济较为落后地区的弱势村民们享受到人工智能的福利，并真切地在日常生活中去使用它。
+
+“村民对新鲜电子事物接受这么快，那我技术普及的目标是否可以更加轻松快速的实现？”内心欣喜道，“或许他们早已知道人工智能呢？”
+
+我不禁询问了起来：“请问您之前有听说过人工智能吗？”
+
+渴望的眼神看向村医。他些许黝黑的脸庞有着丝丝皱纹，若隐若现地覆盖着形状清晰的毛孔，皮肤如潮水起起伏伏。嘴唇厚实且干涩，隐隐约约有少许裂痕，一张一合地说着话：“听说过，咱在抖音上听的。”
+
+“抖音”，这熟悉又陌生的二字让我一颤。它的出现时常是伴有负面情绪的：低价多巴胺、注意力涣散、短视频毒药这些词妖魔化了这个软件。初中时，一台装着抖音的手机能让我躺在床上一天不动弹，新鲜的刺激高强度地攻击着脑部神经。每当我倦了，上滑屏幕清楚抖音后台，再关闭屏显准备做些旁事时，空虚感总会在脑海蔓延，疲惫的它病怏怏地看着各种纷彩的事情：篮球、阅读、骑车，却提不起任何兴趣。大脑晕糊的连起身的动力都消散了，只能再翻身拿起手机，点开这个黑底白色音符的软件，听着重复的网络红曲，看着套路一致的视频。因此，上了高中后，抖音从未在我的手机上出现过。然而，万事皆有两面性，而村医的话照亮了这把双刃剑的另一半。抖音凭借其顺应人性的应用逻辑吸引了跨度极大的用户群，从青少年至老年人，含括不同的收入及地理群体。就算是远在山村里的居民，只要有网络信号，多少都有访问过短视频。而短视频碎片化的消息虽总体质量不高，但涵盖面却广，作为知识基础普及的媒介是绰绰有余。
+
+“抖音本身就是技术平权的展现，它让群众学会基本操控手机。它或许也是技术平权最方便的一种途径。”我心记下。
+
+有着抖音基础的村医很快便熟练上手了软件，还把它添加至了桌面。“挺好的啊，我再试着用用，到时候给我的患者也推荐下。”他笑盈盈地收起了手机，目光向我们打量来。
+
+“呼。”我轻轻吐出一口长气。气体吹到了手臂外的蓝色夹克，它微微一颤，响起了悄悄回音。初次探访的顺利是意想不到的丝滑，村医对于电子事物（甚至是人工智能）的接受程度都出乎意料的迅速，让我不禁对后续充满了信心。转头望向窗外，红白的眼球对上了烈日，却也没那么刺眼。
+
+然而，站长妻子的一番话却让我走出村所的步伐逐渐沉重。
+
+“这村医儿年轻着、这村又发展好点儿，所以他估计听过人工智能。咱们去一些比较偏远的乡，见一些老村医就不好说了。”
+
+我默默往回一瞟。印入眼帘的是一个简单的白瓦房，和一位坐在钢桌前、写着处方单的村医。他脸上的皱纹依稀可见。
+
+---
 ### Technical Updates (2024-06-03)
 I am dedicated to continuously perfect the app so that it can reach a larger audience and realistically help people in the underpriviledged areas. Four core features of KangEr have been updated to enhance accuracy and accessiblity.
 
