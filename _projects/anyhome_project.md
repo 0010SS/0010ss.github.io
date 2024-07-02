@@ -11,6 +11,7 @@ related_publications: false
 
 ---
 **Update (Jul 1, 2024)**: It is my greatest honor to announce that our paper has been accepted to [ECCV 2024](/https://eccv.ecva.net/)! 16 months of hard work does pay off. I have now equipped myself with fruitful experience in crafting a paper from scracth to publishing to a top conference, including ideation, experiements, paper-writing, and submission. I am grateful for working with Rao in this project, who has been a great mentor and friend to me. This "pipeline-level" paper is just my first try in academic research, to find a novel topic that I'm interested in and work on it with passion. I am looking forward to extend my journey in academic research, and to try my best to make groundbreaking works (like Transformers and ResNet) in the future, no matter how long it'll take.
+
 ---
 
 <div class="row">
