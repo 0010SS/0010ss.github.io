@@ -56,17 +56,19 @@
         {%- assign author_last_name = author.last | remove: '¶' | remove: '&' | remove: '^' -%}
         {% if site.scholar.last_name contains author_last_name %}
           {% if site.scholar.first_name contains author.first %}
-            {% assign author_is_self = true %}
+        {% if author.first == "Zehao" %}
+          {% assign author_is_self = true %}
+        {% endif %}
           {% endif %}
         {%- endif -%}
         {% assign coauthor_url = null %}
         {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
         {% if site.data.coauthors[clean_last_name] %}
           {%- for coauthor in site.data.coauthors[clean_last_name] -%}
-            {% if coauthor.firstname contains author.first %}
-              {%- assign coauthor_url = coauthor.url -%}
-              {% break %}
-            {% endif %}
+        {% if coauthor.firstname contains author.first %}
+          {%- assign coauthor_url = coauthor.url -%}
+          {% break %}
+        {% endif %}
           {% endfor %}
         {%- endif -%}
 
@@ -76,18 +78,18 @@
         {% endif %}
         {%- if author_is_self -%}
           <em>
-            {{- author.first }}
-            {{ author.last -}}
+        {{- author.first }}
+        {{ author.last -}}
           </em>
         {%- else -%}
           {%- if coauthor_url -%}
-            <a href="{{coauthor_url}}">
-              {{- author.first }}
-              {{ author.last -}}
-            </a>
+        <a href="{{coauthor_url}}">
+          {{- author.first }}
+          {{ author.last -}}
+        </a>
           {%- else -%}
-            {{ author.first }}
-            {{ author.last }}
+        {{ author.first }}
+        {{ author.last }}
           {% endif %}
         {%- endif -%}
       {% endfor %}
