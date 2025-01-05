@@ -7,9 +7,7 @@ importance: 2
 category: Artificial Intelligence
 giscus_comments: false
 ---
-*You can access the English version of the web app at [vital-client.web.app](vital-client.web.app).* *The Chinese version can be found at [kanger-vital.web.app](vital-ai.web.app).*
-
-My experiences in exploring several rural Chinese villages highlighted the lack of professional medical knowledge and healthcare services in these areas. While the [KangEr Project](https://zehao.tech/projects/kanger_project/) seeks to bring medical knowledge in the palm of the villager's hand through an accessible LLM chatbot web application, it doesn't actively alert the onset of diseases, but requires the user to phrase their query to the AI doctor.
+My experiences in exploring 41 rural Chinese villages highlighted the lack of professional medical knowledge and healthcare services in these areas. While the [KangEr Project](https://zehao.tech/projects/kanger_project/) seeks to bring medical knowledge in the palm of the villager's hand through an accessible LLM chatbot web application, it doesn't actively alert the onset of diseases, but requires the user to phrase their query to the AI doctor.
 
 However, diseases like cardio ones and diabetes are often asymptomatic in the early stages, and the lack of professional medical resources in rural areas makes it difficult to detect these diseases in time. Indeed, in rural China, cardio diseases accounted for nearly **half** of all deaths, and an **eighty percent** prevalence rate of chronic diseases existed. Yet, preventions like basic medications could have averted the heart attack with early detection. 
 

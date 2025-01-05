@@ -7,7 +7,7 @@ importance: 1
 category: Artificial Intelligence
 related_publications: false
 ---
-*You can access the web app at [kanger-ai.web.app](kanger-ai.web.app).*
+*You can access the web app at [kanger-ai.web.app](https://kanger-ai.web.app).*
 
 It's ironic that despite the promises of AI pioneers like Sam Altman that AI could narrow wealth disparities by boosting the productivity of the underprivileged, many communities lack both awareness of and access to AI technologies. This paradox highlights the missed potential for AI to act as a catalyst for inclusive societal and economic advancement, akin to past industrial revolutions. Therefore, I decided to champion AI accessibility in underprivileged communities, starting with rural Chinese villages.
 
