@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /education/
 title: Education
@@ -38,4 +38,4 @@ My academic journey reached a milestone when I received the **Top in China** awa
             {% endif %}
         {% endfor %}
     </div>
-</div>
+</div> -->
