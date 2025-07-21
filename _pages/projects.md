@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /
 description: The crystalization of my passion, mind, and life.
 nav: true
 nav_order: 4
